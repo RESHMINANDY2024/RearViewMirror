@@ -1,2 +1,2 @@
 # RearViewMirror
-Here I write my blogs related to architecture , technology , deal shaping and evolution of enterprise IT outsourcing
+This a repository where I reflect after ending my work day !!!
